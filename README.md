@@ -66,5 +66,5 @@ Saya adalah mahasiswi S1 Fisika di **IPB University** (Angkatan 2024) yang memil
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shasycalisthara&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
