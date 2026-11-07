@@ -65,6 +65,12 @@ Saya adalah mahasiswi S1 Fisika di **IPB University** (Angkatan 2024) yang memil
 
 ---
 
+### 📊 Statistik GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasycalisthara&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_SHASY&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_GITHUB_SHASY&theme=zenburn" alt="GitHub Profile Details" />
 </p>
